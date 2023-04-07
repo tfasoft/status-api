@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src",
+      "paths": {
+        "$root/*": ["root/*"],
+        "$env/*": ["env/*"],
+        "$connections/*": ["connections/*"],
+        "$functions/*": ["functions/*"],
+        "$routes/*": ["routes/*"],
+        "$config/*": ["config/*"],
+        "$controllers/*": ["controllers/*"],
+        "$middlewares/*": ["middlewares/*"]
+    }
+  }
+}
